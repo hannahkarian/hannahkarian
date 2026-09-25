@@ -24,5 +24,8 @@ Currently learning: Rust
 <h3>Connect with me</h3>
 
 <a href="https://www.linkedin.com/in/hana-sabzikarian-b30464273/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="40"
+       height="40"
+       alt="LinkedIn"/>
 </a>
