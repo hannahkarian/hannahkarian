@@ -11,7 +11,6 @@ Location: Netherlands
 Status: 4th-year Computer Science student
 Role: Software Engineering Intern
 Company: QBayLogic
-Project: Manticore Compiler
 Focus: Compilers & Systems
 Currently learning: Rust
 </pre>
