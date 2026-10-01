@@ -8,7 +8,7 @@ hana@github
 ---------------------------
 OS: Ubuntu Linux
 Location: Netherlands
-Status: 4th-year Computer Science student
+Status: Final year Computer Science student
 Role: Software Engineering Intern
 Company: QBayLogic
 Focus: Compilers & Systems
@@ -17,7 +17,7 @@ Currently learning: Rust
 
 <h3>Languages & Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,python" />
+<img src="https://skillicons.dev/icons?i=rust,c,cpp" />
 
 <br>
 
